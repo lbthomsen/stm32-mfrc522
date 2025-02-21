@@ -1,0 +1,16 @@
+/*
+ * mfrc522.h
+ *
+ *  Created on: Feb 21, 2025
+ *      Author: lth
+ */
+
+#ifndef MFRC522_H_
+#define MFRC522_H_
+
+typedef enum {
+    OK,
+    Error
+} mfrc522_result_t;
+
+#endif /* MFRC522_H_ */

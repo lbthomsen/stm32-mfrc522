@@ -1,0 +1,10 @@
+/*
+ * mfrc522.c
+ *
+ *  Created on: Feb 21, 2025
+ *      Author: lth
+ */
+
+#include "main.h"
+
+#include "mfrc522.h"

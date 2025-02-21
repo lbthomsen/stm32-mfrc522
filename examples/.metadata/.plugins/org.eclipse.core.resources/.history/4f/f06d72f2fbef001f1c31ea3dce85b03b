@@ -1,0 +1,16 @@
+/*
+ * mfrc522.c
+ *
+ *  Created on: Feb 21, 2025
+ *      Author: lth
+ */
+
+#include "main.h"
+
+#include "mfrc522.h"
+
+mfrc522_result_t mfrc522_init(mfrc522_handle_t *mfrc522, SPI_HandleTypeDef *spi, GPIO_TypeDef *rst_port, uint16_t rst_pin) {
+    mfrc522_result_t res = OK;
+
+    return res;
+}
